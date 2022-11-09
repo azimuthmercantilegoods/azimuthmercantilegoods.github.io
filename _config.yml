@@ -2,16 +2,16 @@
 title:               A Developer's Journal
 tagline:             "by VulcanSmithy"
 description:         'A collection of notes related to the dark art of coding and programming.'
-url:                 https://vulcansmithy.github.io
+url:                 https://azimuthmercantilegoods.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
-  name:              Vulcan Smithy
-  url:               https://github.com/vulcansmithy
-  email:             vulcansmithy.workshop@gmail.com
+  name:              Azimuth Actual
+  url:               https://github.com/azimuthmercantilegoods
+  email:             azimuth.mercantile.goods@gmail.com
 
 # Gems
 plugins:
